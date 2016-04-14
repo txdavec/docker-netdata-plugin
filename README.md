@@ -1,5 +1,5 @@
 # docker-netdata-plugin
-charts.d plugin for ![netdata](https://github.com/firehol/netdata) that will graph Docker container stats
+charts.d plugin for [netdata](https://github.com/firehol/netdata) that will graph Docker container stats
 
 ![netdata docker screenshot](netdata-docker.png?raw=true)
 
